@@ -1,0 +1,22 @@
+
+# Python environments
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Generated analysis outputs
+outputs/
+
+# Local source and temporary datasets
+data/Ecommerce Customers.csv
+data/SYNTHETIC_SAMPLE_FOR_TESTING_ONLY.csv
+data/raw/
+
+# Secrets
+.env
+.streamlit/secrets.toml
